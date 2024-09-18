@@ -1,0 +1,10 @@
+# Visual Studio 관련 파일 및 폴더 무시
+.vs/
+*.vscode
+*.user
+*.log
+*.obj
+*.exe
+*.pdb
+Debug/
+Release/
