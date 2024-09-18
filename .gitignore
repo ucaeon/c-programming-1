@@ -8,3 +8,6 @@
 *.pdb
 Debug/
 Release/
+
+# .sln 파일 무시
+Project.sln
