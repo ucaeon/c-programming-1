@@ -11,3 +11,5 @@ Release/
 
 # .sln 파일 무시
 Project.sln
+Project1.vcxproj
+Project1.vcxproj.filters
