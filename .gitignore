@@ -12,5 +12,5 @@ Release/
 # .sln 파일 무시
 Project1.vcxproj
 Project1.vcxproj.filters
-c-programming-1
+c-programming-1/
 Project1.sln
