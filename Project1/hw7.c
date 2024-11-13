@@ -35,7 +35,5 @@ int main(void) {
     for (i = 0; i < 6; i++) {
         printf("%d ", arr2[i]);
     }
-
-    return 0;
 }
 
